@@ -4,7 +4,7 @@
 
 신체 치수를 입력하면 **체형을 진단**하고, 그 체형에서 가장 좋아 보이는 **코디를 근거와 함께 추천**하는 규칙 기반 스타일링 도구입니다.
 
-**🔗 데모:** `https://github.com/DForce690/myfit/edit/main/README.md`
+**🔗 데모:** `https://github.com/DForce690/myfit/tree/main`
 
 ---
 
